@@ -1,16 +1,3 @@
-# untitled3
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Application is built to dynamically style and position a custom tooltip on a list of buttons based on values provided user.The First Screen 'Render Tooltip' consists of a list of inputs which takes input from user.There is a range for each input,if the user input's a value outside that an error is shown,this is done because if the value is too large or small then the tooltip will show error.If the inputs are valid we are lead into a new screen where there are five buttons and the custom tooltip will appear with the desired styled and position on the desired button where we have to Tap to see the tooltip.Clicking on any other buttons will lead us back to the home screen,where we can do the same for other buttons.All these details are added into a sqflite database.
+Screen 1
+![image](https://github.com/Niravra4587/Plotline-assingment-mobile-intern/assets/110563061/16f41e0e-d7dc-48eb-89ac-a9d463f9b9b6)
