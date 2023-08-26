@@ -3,13 +3,13 @@ This Application is built to dynamically style and position a custom tooltip on 
 
 
 
-Screen 1
-![image](https://github.com/Niravra4587/Plotline-assingment-mobile-intern/assets/110563061/16f41e0e-d7dc-48eb-89ac-a9d463f9b9b6) 
+
+![image](https://github.com/Niravra4587/Plotline-assingment-mobile-intern/assets/110563061/16f41e0e-d7dc-48eb-89ac-a9d463f9b9b6)  Screen 1
 
 
 
-Screen 2
-![image](https://github.com/Niravra4587/Plotline-assingment-mobile-intern/assets/110563061/87c0fa00-f8db-4f06-bd8e-8d4ceed527ae)
+
+![image](https://github.com/Niravra4587/Plotline-assingment-mobile-intern/assets/110563061/87c0fa00-f8db-4f06-bd8e-8d4ceed527ae) Screen 2
 
 
 
