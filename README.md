@@ -1,3 +1,4 @@
+The apk file for this application is:- https://drive.google.com/file/d/1MxEjbkmBv8_fS0pDyfAoUm1yMy_c5eRa/view?usp=drive_link
 This Application is built to dynamically style and position a custom tooltip,made using the shapeborder class on a list of buttons based on values provided user.The First Screen 'Render Tooltip' consists of a list of inputs which takes input from user.There is a range for each input,if the user input's a value outside that an error is shown,this is done because if the value is too large or small then the tooltip will exceed the screen or other designal faults.If the inputs are valid we are lead into a new screen where there are five buttons and the custom tooltip will appear with the desired styled and position on the desired button where we have to Tap to see the tooltip.Clicking on any other buttons will lead us back to the home screen,where we can do the same for other buttons.All these details are added into a sqflite database.
 
 
